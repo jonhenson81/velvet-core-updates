@@ -9,9 +9,9 @@
     "arm64-v8a"
   ],
   "apkUrl": "https://github.com/jonhenson81/velvet-core-updates/releases/download/beta-0.5.76-beta34/app-debug.apk",
-  "sha256": "8d0f6950cc8e6dc6ebc1952b2338179d02c0ee7bf52bd38705553f3176907ccc",
+  "sha256": "c861dff7a89c3d85b9cf510a24a2362163c9f5bd9fbbbf1607121b290b25d39e",
   "signingCertificateSha256": "efe6ef6fc5f1668b03ea8843524fae217bb16c9bd17127f5dcd96e79a07c728b",
   "releaseNotes": "Verified Velvet Core beta build. Install is user-approved; app data is preserved by Android's normal in-place update process.",
-  "publishedAt": "2026-11-15T19:59:24Z",
+  "publishedAt": "2026-11-15T20:09:28Z",
   "mandatory": false
 }
