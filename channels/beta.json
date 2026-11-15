@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "appId": "com.velvetcore.companion",
+  "channel": "beta",
+  "versionCode": 85,
+  "versionName": "0.5.72-beta30",
+  "minAndroidSdk": 30,
+  "supportedAbis": [
+    "arm64-v8a"
+  ],
+  "apkUrl": "https://github.com/jonhenson81/velvet-core-updates/releases/download/beta-0.5.72-beta30/app-debug.apk",
+  "sha256": "a0570599612dc29cbcb00021f5906a94188a3ad938c89e5b1f67c38df4a4de63",
+  "signingCertificateSha256": "efe6ef6fc5f1668b03ea8843524fae217bb16c9bd17127f5dcd96e79a07c728b",
+  "releaseNotes": "Verified Velvet Core beta build. Install is user-approved; app data is preserved by Android's normal in-place update process.",
+  "publishedAt": "2026-11-15T15:58:52Z",
+  "mandatory": false
+}
