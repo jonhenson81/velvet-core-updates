@@ -12,6 +12,6 @@
   "sha256": "9840ebc0733bdfbc01ccbf12414ab7a1dce2a0ddc068ea8263029c4fa2583efd",
   "signingCertificateSha256": "efe6ef6fc5f1668b03ea8843524fae217bb16c9bd17127f5dcd96e79a07c728b",
   "releaseNotes": "Verified Velvet Core beta build. Install is user-approved; app data is preserved by Android's normal in-place update process.",
-  "publishedAt": "2026-11-15T16:41:49Z",
+  "publishedAt": "2026-11-15T17:30:42Z",
   "mandatory": false
 }
