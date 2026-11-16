@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "appId": "com.velvetcore.companion",
   "channel": "beta",
-  "versionCode": 91,
-  "versionName": "0.5.78-beta36",
+  "versionCode": 92,
+  "versionName": "0.5.79-beta37",
   "minAndroidSdk": 30,
   "supportedAbis": [
     "arm64-v8a"
   ],
-  "apkUrl": "https://github.com/jonhenson81/velvet-core-updates/releases/download/beta-0.5.78-beta36/app-debug.apk",
-  "sha256": "140567e84f5d99925a51b3b2d1cad0a7bef4e74b467ebd12dfa68ba578cd4484",
+  "apkUrl": "https://github.com/jonhenson81/velvet-core-updates/releases/download/beta-0.5.79-beta37/app-debug.apk",
+  "sha256": "13c622838e25be5e164e71e5f9c815498f0daf5ab7baa91d7cb05563631827b1",
   "signingCertificateSha256": "efe6ef6fc5f1668b03ea8843524fae217bb16c9bd17127f5dcd96e79a07c728b",
-  "releaseNotes": "Verified Velvet Core beta build. Install is user-approved; app data is preserved by Android's normal in-place update process.",
-  "publishedAt": "2026-11-15T20:29:03Z",
+  "releaseNotes": "Friend-ready Velvet Core beta with streamlined first-run model setup, local chat, three fictional adult companion profiles (18+), and optional Kokoro neural voice. Install is user-approved; app data is preserved by Android's normal in-place update process.",
+  "publishedAt": "2026-11-16T17:01:05Z",
   "mandatory": false
 }
