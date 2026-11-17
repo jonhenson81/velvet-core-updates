@@ -1,1 +1,17 @@
-{"name":"beta.json","path":"channels/beta.json","sha":"5ae379938d22a2fcf79178944ab9085693ec2e36","size":698,"url":"https://api.github.com/repos/jonhenson81/velvet-core-updates/contents/channels/beta.json?ref=main","html_url":"https://github.com/jonhenson81/velvet-core-updates/blob/main/channels/beta.json","git_url":"https://api.github.com/repos/jonhenson81/velvet-core-updates/git/blobs/5ae379938d22a2fcf79178944ab9085693ec2e36","download_url":"https://raw.githubusercontent.com/jonhenson81/velvet-core-updates/main/channels/beta.json","type":"file","content":"{\n  \"schemaVersion\": 1,\n  \"appId\": \"com.velvetcore.companion\",\n  \"channel\": \"beta\",\n  \"versionCode\": 94,\n  \"versionName\": \"0.5.81-beta39\",\n  \"minAndroidSdk\": 30,\n  \"supportedAbis\": [\"arm64-v8a\"],\n  \"apkUrl\": \"https://github.com/jonhenson81/velvet-core-updates/releases/download/beta-0.5.81-beta39/app-debug.apk\",\n  \"sha256\": \"c78115d925bb2949a82eaba4ac9d4a5df5e82de2436795064dfbff21be6ab15d\",\n  \"signingCertificateSha256\": \"efe6ef6fc5f1668b03ea8843524fae217bb16c9bd17127f5dcd96e79a07c728b\",\n  \"releaseNotes\": \"Friend-ready Velvet Core beta39 with companion chat, companion-specific learning, memory controls, and privacy safeguards.\",\n  \"publishedAt\": \"2026-11-17T02:28:35Z\",\n  \"mandatory\": false\n}","encoding":"base64","_links":{"self":"https://api.github.com/repos/jonhenson81/velvet-core-updates/contents/channels/beta.json?ref=main","git":"https://api.github.com/repos/jonhenson81/velvet-core-updates/git/blobs/5ae379938d22a2fcf79178944ab9085693ec2e36","html":"https://github.com/jonhenson81/velvet-core-updates/blob/main/channels/beta.json"},"apkUrl":"https://github.com/jonhenson81/velvet-core-updates/releases/download/beta-0.5.81-beta39/Velvet-Core-Friend-Beta-0.5.81-beta39.apk"}
+{
+  "schemaVersion": 1,
+  "appId": "com.velvetcore.companion",
+  "channel": "beta",
+  "versionCode": 94,
+  "versionName": "0.5.81-beta39",
+  "minAndroidSdk": 30,
+  "supportedAbis": [
+    "arm64-v8a"
+  ],
+  "apkUrl": "https://github.com/jonhenson81/velvet-core-updates/releases/download/beta-0.5.81-beta39/Velvet-Core-Friend-Beta-0.5.81-beta39.apk",
+  "sha256": "c78115d925bb2949a82eaba4ac9d4a5df5e82de2436795064dfbff21be6ab15d",
+  "signingCertificateSha256": "efe6ef6fc5f1668b03ea8843524fae217bb16c9bd17127f5dcd96e79a07c728b",
+  "releaseNotes": "Friend-ready Velvet Core beta39 with companion chat, companion-specific learning, memory controls, and privacy safeguards.",
+  "publishedAt": "2026-11-17T02:28:35Z",
+  "mandatory": false
+}
