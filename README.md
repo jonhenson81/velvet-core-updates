@@ -18,6 +18,11 @@ The updater reads one JSON document for the device's enrolled channel:
 A channel manifest is published only when a signed APK for that channel is ready.
 A missing manifest means that channel has no published release yet.
 
+## Friend testing
+
+See the [Velvet Core beta testing guide](BETA-TESTING.md) for installation notes,
+test steps, and feedback instructions.
+
 ## Integrity and installation
 
 Each manifest identifies an exact release APK URL, SHA-256 digest, package ID,
